@@ -1,0 +1,16 @@
+h1 {
+font-size: 50px;
+
+
+}
+
+
+.text {
+text-align: center;
+color: #FFFFFF;
+}
+
+body {
+background-image:url(ios.png);
+background-size: cover;
+}
